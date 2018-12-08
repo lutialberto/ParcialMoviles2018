@@ -1,8 +1,10 @@
-package com.example.betom.parcialmoviles2018
+package com.example.betom.parcialmoviles2018.controllers
 
+import android.content.Intent
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
+import com.example.betom.parcialmoviles2018.R
 
 class MainActivity : AppCompatActivity() {
 
@@ -12,7 +14,8 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun btnExercise1Click(view : View){
-
+        val exercise1Activity=Intent(this,Exercise1Activity::class.java)
+        startActivity(exercise1Activity)
     }
 
     fun btnExercise2Click(view : View){
