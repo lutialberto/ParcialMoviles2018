@@ -14,6 +14,7 @@ const val EXTRA_MULTIPLICATION_RESULT = "resultado multiplicacion"
 
 /*request code*/
 const val REQUEST_MULTIPLICATION = 1
+const val REQUEST_PICK_CONTACTS = 1
 
 /**/
 const val INSTANCE_STATE_EXERCISE_2_NUMBER1 = "1er numero"
