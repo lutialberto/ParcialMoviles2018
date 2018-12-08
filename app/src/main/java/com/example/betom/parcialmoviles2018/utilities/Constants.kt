@@ -14,3 +14,9 @@ const val EXTRA_MULTIPLICATION_RESULT = "resultado multiplicacion"
 
 /*request code*/
 const val REQUEST_MULTIPLICATION = 1
+
+/**/
+const val INSTANCE_STATE_EXERCISE_2_NUMBER1 = "1er numero"
+const val INSTANCE_STATE_EXERCISE_2_NUMBER2 = "2do numero"
+const val INSTANCE_STATE_EXERCISE_2_CONTACT_INFO = "info contacto"
+const val INSTANCE_STATE_EXERCISE_2_RESULT = "resultado"
