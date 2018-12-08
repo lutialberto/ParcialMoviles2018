@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">ParcialMoviles2018</string>
+    <string name="parcial_moviles_2018">Parcial Moviles 2018</string>
+    <string name="ejercicio_1">Ejercicio 1</string>
+    <string name="ejercicio_2">Ejercicio 2</string>
+    <string name="ejercicio_3">Ejercicio 3</string>
+    <string name="ejercicio_4">Ejercicio 4</string>
+    <string name="ejercicio_5">Ejercicio 5</string>
+    <string name="alberto_luti">Alberto Luti</string>
 </resources>
