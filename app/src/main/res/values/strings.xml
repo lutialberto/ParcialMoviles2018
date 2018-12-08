@@ -15,4 +15,7 @@
     <string name="ingresa_1er_numero">Ingresa 1er numero</string>
     <string name="ingresa_2do_numero">Ingresa 2do numero</string>
     <string name="realizar_producto">Realizar producto</string>
+    <string name="comenzar">Comenzar</string>
+    <string name="detener">Detener</string>
+    <string name="resetear">Resetear</string>
 </resources>
