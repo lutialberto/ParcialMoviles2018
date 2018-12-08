@@ -17,7 +17,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".controllers.Exercise1Activity" />
-        <activity android:name=".controllers.Exercise2Activity"></activity>
+        <activity android:name=".controllers.Exercise2Activity" />
+        <activity android:name=".controllers.MultiplicationActivity"></activity>
     </application>
 
 </manifest>
