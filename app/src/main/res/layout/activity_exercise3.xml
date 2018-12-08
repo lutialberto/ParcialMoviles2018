@@ -16,7 +16,7 @@
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        tools:text="hh:mm:ss:fff" />
+        tools:text="ss" />
 
     <LinearLayout
         android:layout_width="0dp"
