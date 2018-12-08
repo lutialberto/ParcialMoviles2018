@@ -8,4 +8,8 @@
     <string name="ejercicio_5">Ejercicio 5</string>
     <string name="alberto_luti">Alberto Luti</string>
     <string name="clickeame">Clickeame</string>
+    <string name="multiplicar">Multiplicar</string>
+    <string name="datos_del_contacto">Datos del contacto</string>
+    <string name="resultado_multiplicacion">Resultado multiplicacion</string>
+    <string name="obtener_contacto">Obtener Contacto</string>
 </resources>
