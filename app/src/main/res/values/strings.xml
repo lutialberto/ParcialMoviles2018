@@ -18,4 +18,6 @@
     <string name="comenzar">Comenzar</string>
     <string name="detener">Detener</string>
     <string name="resetear">Resetear</string>
+    <string name="service">Service</string>
+    <string name="intent_service">Intent Service</string>
 </resources>

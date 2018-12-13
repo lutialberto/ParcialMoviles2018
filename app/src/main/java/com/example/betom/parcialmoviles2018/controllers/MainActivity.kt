@@ -29,7 +29,8 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun btnExercise4Click(view : View){
-
+        val exercise1Activity=Intent(this,Exercise4Activity::class.java)
+        startActivity(exercise1Activity)
     }
 
     fun btnExercise5Click(view : View){
