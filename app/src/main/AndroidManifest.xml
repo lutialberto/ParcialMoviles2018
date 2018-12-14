@@ -25,7 +25,7 @@
         <activity android:name=".controllers.Exercise4Activity" />
 
         <service
-            android:name=".services.MyService"
+            android:name=".services.HelloService"
             android:enabled="true"
             android:exported="true"
             android:permission="string"/>

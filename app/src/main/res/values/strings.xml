@@ -20,4 +20,6 @@
     <string name="resetear">Resetear</string>
     <string name="service">Service</string>
     <string name="intent_service">Intent Service</string>
+    <string name="salida_del_boton_n_service">salida del boton   service</string>
+    <string name="salida_del_boton_nintent_service">salida del boton  intent service</string>
 </resources>
